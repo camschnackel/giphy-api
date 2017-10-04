@@ -1,0 +1,24 @@
+html body {
+    background-color: #ffa751;
+}
+
+img {
+    vertical-align: middle;
+    width: 100%;
+    height: 100%;
+    border-radius: 2px;
+}
+
+.imgDiv {
+    height: 200px;
+    line-height: 200px;
+    margin-top: 25px;
+}
+
+#searchSection {
+    margin:0 ! important;
+    text-align: center;
+    clear: both;
+    width: 100%;
+    background: linear-gradient(to bottom, #ffe259, #ffa751);
+}
